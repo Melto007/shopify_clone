@@ -1,4 +1,4 @@
-# Shopify clone using tailwindcss [live link]()
+# Shopify clone using tailwindcss [live link](https://myshopifyclone.netlify.app/)
 
 ## skills gained from this project
     - I learned to use flexbox and grid
